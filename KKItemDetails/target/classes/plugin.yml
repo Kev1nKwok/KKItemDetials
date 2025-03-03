@@ -1,0 +1,6 @@
+name: KKItemDetails
+version: '1.0-SNAPSHOT'
+main: com.kevinkwok.kkitemdetails.KKItemDetails
+commands:
+  kkitemdetails:
+    aliases: kkid

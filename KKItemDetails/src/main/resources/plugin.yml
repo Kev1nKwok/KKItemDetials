@@ -1,0 +1,6 @@
+name: KKItemDetails
+version: '${project.version}'
+main: com.kevinkwok.kkitemdetails.KKItemDetails
+commands:
+  kkitemdetails:
+    aliases: kkid

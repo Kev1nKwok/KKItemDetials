@@ -1,0 +1,16 @@
+
+ItemList:
+  Example:
+    Name: "§aForTest"
+    ReplaceLore:
+      - ''
+      - '§f  获取方法:'
+      - ''
+      - '§f  仅允许通过§c非法途径§f获取'
+  Example2:
+    Name: "§aForTest2"
+    ReplaceLore:
+      - ''
+      - '§f  获取方法:'
+      - ''
+      - '§f  仅允许通过§c非法途径§f获取'
