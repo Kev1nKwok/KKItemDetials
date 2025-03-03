@@ -1,0 +1,2 @@
+# KKItemDetials
+Bukkit-based plugins
